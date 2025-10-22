@@ -1,9 +1,5 @@
-/*
-
-!README.md
-!/.gitignore
-!/Images/
-!/Progress/
-!/Progress/
-!/.srcs/
-!/.srcs/**
+/.cache/
+/.hw/
+/.ip_user_files/
+/.sim/
+/.xpr
