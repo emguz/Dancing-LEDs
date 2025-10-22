@@ -14,7 +14,7 @@ Although not all of these are necessary for my current project, I wanted to incl
 communication in FPGA dev boards were reletavely uncommon, so I narrowed my search to dev boards with wireless communication as this was my limiting factor. Below is a list of boards I found.
 
 ### [1. Real Digital Blackboard](https://www.realdigital.org/hardware/blackboard)
-![Real Digital Blackboard](../images/RealDigitalBlackboard.png)
+![Real Digital Blackboard](../../images/RealDigitalBlackboard.png)
 
 - $184 ($149 for students)
 - Artix FPGA and ARM Cortex A9
@@ -23,14 +23,14 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - Microphone
 
 ### [2. EDGE ZYNQ SoC FPGA Dev Board](https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board/)
-![Edge ZYNQ](../images/EdgeSYNQSoC.png)
+![Edge ZYNQ](../../images/EdgeSYNQSoC.png)
 
 - $245
 - Two ARM Cortex A9 in ZYNQ FPGA
 - JTAG Programming
 
 ### [3. Titanium Ti375 C529 Dev Kit](https://www.efinixinc.com/products-devkits-titaniumti375c529.html)
-![Titanium Dev Kit](../images/TitaniumDevBoard.png)
+![Titanium Dev Kit](../../images/TitaniumDevBoard.png)
 
 - $450
 - FPGA Prototyping
@@ -38,7 +38,7 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - AI Applications
 
 ### [4. Zybo Z7: Zynq-7000 ARM/FPGA SoC Dev Board](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/)
-![ZYBO Z7](../images/ZyboZ7.png)
+![ZYBO Z7](../../images/ZyboZ7.png)
 
 - $400 ($300 Zybo Z7-10 Preferred)
 - Embedded Software and Digital Circuit development
@@ -46,7 +46,7 @@ communication in FPGA dev boards were reletavely uncommon, so I narrowed my sear
 - I2C, UART, SPI, CAN
 
 ### [5. Nexys A7 AMD 7 FPGA Trainer Board](https://digilent.com/shop/nexys-a7-amd-artix-7-fpga-trainer-board-recommended-for-ece-curriculum/)
-![Nexys A7](../images/NexysA7.png)
+![Nexys A7](../../images/NexysA7.png)
 
 - $350
 - Built for ECE Curriculum Students
