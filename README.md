@@ -8,9 +8,7 @@ I am making and embedded system to sense environmental sounds and map its amplit
 - [Dev Board Selection](Progress/Hardware-Selection/Development-Boards.md)
 
 ### 2. Board Familiarization
-- Stopwatch
 - HDMI Controller
-- Working With Servo Motors
 - VGA Display Controller
 - Audio Recorder and Player
 
