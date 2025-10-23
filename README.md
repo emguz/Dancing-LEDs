@@ -9,9 +9,9 @@ System Block Diagram
 ### 1. Hardware Selection
 - [Dev Board Selection](Progress/Hardware-Selection/Development-Boards.md)
 
-### 3. Hardware Development
+### 2. Hardware Development
 
-### 5. Where to Go From Here
+### 3. Where to Go From Here
 - Conclusion
 
 ## Current Stage
