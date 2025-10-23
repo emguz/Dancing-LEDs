@@ -11,7 +11,9 @@ System Block Diagram
 
 ### 2. Hardware Development
 
-### 3. Where to Go From Here
+### 3. Finished Product
+
+### 4. Where to Go From Here
 - Conclusion
 
 ## Current Stage
