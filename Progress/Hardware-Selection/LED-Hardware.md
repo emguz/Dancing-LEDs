@@ -9,7 +9,7 @@ I have listed here the different components of the LED Hardware.
    I chose to get 5M so that I had the most wiggle room with the LEDs. They are relatively cheap and I could always cut them into little strips down the road.
 3. [LED Driver](https://www.adafruit.com/product/1455?gad_source=1&gad_campaignid=21079267614&gbraid=0AAAAADx9JvTmJbkcPpc4Q2se-f91Nysap&gclid=CjwKCAjwgeLHBhBuEiwAL5gNEbACLwLLZXMsx7r6Jmkd17t4T07fPJSP1TLDgnYRraNMTIRD6_-bWBoCk4UQAvD_BwE)
 
-   ![LED Driver](LEDDriver.png)
+   ![LED Driver](../../Images/LEDDriver.png)
    
    This will allow me to vary the brightness and color of the LEDs.
 
