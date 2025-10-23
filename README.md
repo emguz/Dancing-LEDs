@@ -6,8 +6,9 @@ Giving LEDs the ability to dance! I am making and embedded system to sense envir
 ![System Block Diagram](Images/SystemBlockDiagram.png)
 System Block Diagram 
 
-### 1. Hardware Selection
+### 1. Hardware
 - [Dev Board Selection](Progress/Hardware-Selection/Development-Boards.md)
+- [LED Hardware](Progress/Hardware-Selection/LED-Hardware.md)
 
 ### 2. Hardware Development
 
