@@ -9,21 +9,10 @@ System Block Diagram
 ### 1. Hardware Selection
 - [Dev Board Selection](Progress/Hardware-Selection/Development-Boards.md)
 
-### 2. Board Familiarization
-- HDMI Controller
-- VGA Display Controller
-- Audio Recorder and Player
-
-### 3. Board Development
-- ARM Processor Development
-- FPGA Development
-- FPGA and ARM Processor Integration
-
-### 4. System Benchmarking
-- System Benchmarking
+### 3. Hardware Development
 
 ### 5. Where to Go From Here
 - Conclusion
 
 ## Current Stage
-I have selected the board, but am still doing research for the end product hardware, so I am working in both stages 1 and 2.
+I have selected the board, and the initial components for a prototype. I am now developing the hardware logic.
