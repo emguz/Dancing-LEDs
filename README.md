@@ -1,8 +1,10 @@
 # Dancing LEDs
-Giving LEDs the ability to dance!
+Giving LEDs the ability to dance! I am making and embedded system to sense environmental sounds and map its amplitude and frequency to the intensity and color of LEDs.
 
 ## Overview
-I am making and embedded system to sense environmental sounds and map its amplitude and frequency to the intensity and color of LEDs. Here is my initial plan for completing this project.
+
+![System Block Diagram](Images/SystemBlockDiagram.png)
+System Block Diagram 
 
 ### 1. Hardware Selection
 - [Dev Board Selection](Progress/Hardware-Selection/Development-Boards.md)
@@ -20,8 +22,8 @@ I am making and embedded system to sense environmental sounds and map its amplit
 ### 4. System Benchmarking
 - System Benchmarking
 
-### 5. Upgrading the System
-- End Product Hardware Integration
+### 5. Where to Go From Here
+- Conclusion
 
 ## Current Stage
 I have selected the board, but am still doing research for the end product hardware, so I am working in both stages 1 and 2.
